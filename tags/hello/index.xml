@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hello on Cactus theme example</title>
-    <link>https://example.com/tags/hello/</link>
+    <link>https://johnandethan.github.io/tags/hello/</link>
     <description>Recent content in hello on Cactus theme example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>You</copyright><atom:link href="https://example.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>You</copyright><atom:link href="https://johnandethan.github.io/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>你好</title>
-      <link>https://example.com/posts/test/</link>
+      <link>https://johnandethan.github.io/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/test/</guid>
+      <guid>https://johnandethan.github.io/posts/test/</guid>
       <description>你好</description>
     </item>
     
